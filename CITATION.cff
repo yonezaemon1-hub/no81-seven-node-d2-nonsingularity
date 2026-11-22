@@ -1,0 +1,7 @@
+cff-version: 1.2.0
+message: "If you use or discuss this research, please cite the preprint record when available."
+title: "Nonsingularity of a Logarithmic Coefficient Matrix for Centrally Symmetric Seven-Node Rational Configurations"
+authors:
+  - family-names: "Yonezu"
+    given-names: "Ryutaro"
+type: generic
